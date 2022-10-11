@@ -2,6 +2,7 @@
 ![- Git Command](https://github.com/saqlain-github/Git_Assignment/blob/main/Images/1.jpg)
 
 
+
 ##  Configure User :
  - Description : When you make commits on your local system and push them to Bitbucket Cloud, the commit data determines which account name to attach to the push
 ![- User Command](https://github.com/saqlain-github/Git_Assignment/blob/main/Images/2.jpg)
